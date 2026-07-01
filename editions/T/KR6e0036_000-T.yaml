@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0036/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 等目菩薩所問三昧經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0288.xml
+    old_id: T10n0288
+hash: sha256:bb09fa6736541dcccbe2e3fa730b5684606bc4e81ce9b9baeb4864eee92762ca

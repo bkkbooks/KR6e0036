@@ -1,0 +1,194 @@
+canonical_identifier: bkk:krp/KR6e0036/T/v1
+canonical_location: https://kanripo.org/bkk/KR6e0036/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 等目菩薩所問三昧經
+  identifiers:
+    krp: KR6e0036
+    cbeta: T10n0288
+    cbeta_old_id: T10n0288
+    authorityid: CA0000751
+    json_key: T0288
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0288.xml
+    old_id: T10n0288
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0036_000-T.yaml, hash: 'sha256:bb09fa6736541dcccbe2e3fa730b5684606bc4e81ce9b9baeb4864eee92762ca'}
+  - {seq: 1, filename: KR6e0036_001-T.yaml, hash: 'sha256:45a436ee49377126895d637732790d569e27f2d5139a9c3f0e0be66cbcf2ad16'}
+  - {seq: 2, filename: KR6e0036_002-T.yaml, hash: 'sha256:64dd198eb8c07cc0cb7f9a6ff67543050d02b591d338db8c1b8b5b5dcf6e5c5e'}
+  - {seq: 3, filename: KR6e0036_003-T.yaml, hash: 'sha256:37b0b90bb07b210779458c41ae78b6b8e56d85ff823fce9c1f2d73fbdfd28d91'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0036_000-T.markers.yaml, hash: 'sha256:dbcee4c33a38f3724c3778fd5e11f2f207da567c23d9f00b069ae2419962f005'}
+  - {seq: 1, role: markers, filename: assets/KR6e0036_001-T.markers.yaml, hash: 'sha256:6cbb8ee93ac0f7ef04c83591142b98aef8432871cb9f8ee902c211ef4c0818da'}
+  - {seq: 2, role: markers, filename: assets/KR6e0036_002-T.markers.yaml, hash: 'sha256:f6fa3ccdd1fa05f369613229cbc3d96a6e58f9b3ec08408b5ee3d8ac5d8a339a'}
+  - {seq: 3, role: markers, filename: assets/KR6e0036_003-T.markers.yaml, hash: 'sha256:07178db8d09cf4a0d5f52f8e23b3384522afab4c35b3d0f22c4ae170c6f13020'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0036_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7191
+  label: '等目菩薩所問三昧經卷上
+
+    　　　　　　　　　　一名普賢菩薩定意'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0036_T_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 大感動品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0036_T_001-mulu-2
+    span:
+    - body
+    - 2463
+    - 2463
+  label: 2 等目菩薩說行定品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0036_T_001-mulu-3
+    span:
+    - body
+    - 4256
+    - 4256
+  label: 3 等目菩薩神變品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0036_T_001-mulu-4
+    span:
+    - body
+    - 4740
+    - 4740
+  label: 4 等目菩薩幻事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0036_T_001-mulu-5
+    span:
+    - body
+    - 5682
+    - 5682
+  label: 5 菩薩樂定品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0036_T_001-mulu-6
+    span:
+    - body
+    - 6121
+    - 6121
+  label: 6 等目菩薩大權慧定品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0036_T_001-mulu-7
+    span:
+    - body
+    - 6669
+    - 6669
+  label: 7 等目菩薩無量如品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0036_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7165
+  label: 佛說等目菩薩經卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0036_T_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 8 權慧清淨品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0036_T_002-mulu-2
+    span:
+    - body
+    - 1556
+    - 1556
+  label: 9 等目菩薩興顯品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0036_T_002-mulu-3
+    span:
+    - body
+    - 4124
+    - 4124
+  label: 10 外身現化品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0036_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9586
+  label: 等目菩薩經卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0036_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 11 分別身行大慧空品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0036_T_003-mulu-2
+    span:
+    - body
+    - 4737
+    - 4737
+  label: 12 等目菩薩大權慧品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0036_T_003-mulu-3
+    span:
+    - body
+    - 7886
+    - 7886
+  label: 13 等目菩薩悅樂龍王品
+  type: mulu
+  level: 1
+hash: sha256:f15f3d94e1a79309d054db5e355815d76dde625b9b512966efdce260a76f81fc
