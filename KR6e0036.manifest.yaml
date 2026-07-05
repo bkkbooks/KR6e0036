@@ -37,13 +37,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0036_000.yaml, hash: 'sha256:bb09fa6736541dcccbe2e3fa730b5684606bc4e81ce9b9baeb4864eee92762ca'}
-  - {seq: 1, filename: KR6e0036_001.yaml, hash: 'sha256:a321476fc45a231f71a7789dcaf1eb50aa37263dabe778f3508d4c28f024a8e8'}
-  - {seq: 2, filename: KR6e0036_002.yaml, hash: 'sha256:71c581c95fee1cebc7a3e9624867961a90337c11cba4e1b2159e187bdd810779'}
-  - {seq: 3, filename: KR6e0036_003.yaml, hash: 'sha256:574f10d362b77adf49a37c7f96f2858ab889c0f6e550700ddc8b88535995af76'}
+  - {seq: 1, filename: KR6e0036_001.yaml, hash: 'sha256:45a436ee49377126895d637732790d569e27f2d5139a9c3f0e0be66cbcf2ad16'}
+  - {seq: 2, filename: KR6e0036_002.yaml, hash: 'sha256:64dd198eb8c07cc0cb7f9a6ff67543050d02b591d338db8c1b8b5b5dcf6e5c5e'}
+  - {seq: 3, filename: KR6e0036_003.yaml, hash: 'sha256:37b0b90bb07b210779458c41ae78b6b8e56d85ff823fce9c1f2d73fbdfd28d91'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0036_001.markers.yaml, hash: 'sha256:52424abcffa8f71167101871bf1352249196f2eace1b53713ddca973ab79ea9d'}
-  - {seq: 2, role: markers, filename: assets/KR6e0036_002.markers.yaml, hash: 'sha256:832476379d4a2cd381e81a868bdf7bbd779dfcbbdd61186e1e6385cc0edaea88'}
-  - {seq: 3, role: markers, filename: assets/KR6e0036_003.markers.yaml, hash: 'sha256:d6e145b40830964fbfb0b0fb96204fc29b2325a7b2bbbfe709d8f8ed5a4cacf8'}
+  - {seq: 0, role: markers, filename: assets/KR6e0036_000.markers.yaml, hash: 'sha256:9f8af3cd99ff7960877f55cea3619c27da40c011247c9a9042fd124af9d2a966'}
+  - {seq: 1, role: markers, filename: assets/KR6e0036_001.markers.yaml, hash: 'sha256:bdbc5ccb2a63113f91b1d3750bb8abf081f4db8c8692da78bd0a43af1af92b92'}
+  - {seq: 2, role: markers, filename: assets/KR6e0036_002.markers.yaml, hash: 'sha256:3eb87c95195fef85bed6469fb0dc22b21f20cd1dea4103ac1f5482b7872de74f'}
+  - {seq: 3, role: markers, filename: assets/KR6e0036_003.markers.yaml, hash: 'sha256:fe1af1ced2428c1627bbdffe55c12a4b66aeb4ebb58a79b4d749e101405ba552'}
 table_of_contents:
 - ref:
     seq: 1
@@ -207,7 +208,4 @@ table_of_contents:
   label: 13 等目菩薩悅樂龍王品
   type: mulu
   level: 1
-hash: sha256:d3ad1253a079dd6b6a5cd337c2d572b9dc52cafcd42c0257a662f985e5bacb10
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:85f81f77e0809d7bcc0ed1ddf67b7bc755f492f82f439a6a7f2a43754ed0d5df
