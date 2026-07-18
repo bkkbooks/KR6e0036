@@ -24,7 +24,7 @@ assets:
   - {seq: 2, filename: KR6e0036_002-T.yaml, hash: 'sha256:64dd198eb8c07cc0cb7f9a6ff67543050d02b591d338db8c1b8b5b5dcf6e5c5e'}
   - {seq: 3, filename: KR6e0036_003-T.yaml, hash: 'sha256:37b0b90bb07b210779458c41ae78b6b8e56d85ff823fce9c1f2d73fbdfd28d91'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0036_000-T.markers.yaml, hash: 'sha256:dbcee4c33a38f3724c3778fd5e11f2f207da567c23d9f00b069ae2419962f005'}
+  - {seq: 0, role: markers, filename: assets/KR6e0036_000-T.markers.yaml, hash: 'sha256:42a2f1d7d030a1b1e13989910c37ac533bef2d8a88da5d0440040e4cf651a9bd'}
   - {seq: 1, role: markers, filename: assets/KR6e0036_001-T.markers.yaml, hash: 'sha256:6cbb8ee93ac0f7ef04c83591142b98aef8432871cb9f8ee902c211ef4c0818da'}
   - {seq: 2, role: markers, filename: assets/KR6e0036_002-T.markers.yaml, hash: 'sha256:f6fa3ccdd1fa05f369613229cbc3d96a6e58f9b3ec08408b5ee3d8ac5d8a339a'}
   - {seq: 3, role: markers, filename: assets/KR6e0036_003-T.markers.yaml, hash: 'sha256:07178db8d09cf4a0d5f52f8e23b3384522afab4c35b3d0f22c4ae170c6f13020'}
@@ -191,4 +191,4 @@ table_of_contents:
   label: 13 等目菩薩悅樂龍王品
   type: mulu
   level: 1
-hash: sha256:f15f3d94e1a79309d054db5e355815d76dde625b9b512966efdce260a76f81fc
+hash: sha256:ef3437278262ab9c8c59e7e565d2abae2d0b10a6cf9356acf3615fab8ec7e3be
